@@ -60,9 +60,10 @@ python TEAMS_explorer.py
 
 Файлы сохранятся с именем чата и датой:
 ```
-teams_Unitel_TK_env_Go_Live_20260422_143000.html
-teams_Unitel_TK_env_Go_Live_20260422_143000.csv
-teams_Unitel_TK_env_Go_Live_20260422_143000.json
+пример:
+teams_Go_Live_20260422_143000.html
+teams_Go_Live_20260422_143000.csv
+teams_Go_Live_20260422_143000.json
 ```
 
 ---
