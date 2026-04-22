@@ -1,0 +1,20 @@
+# Экспортированные файлы
+teams_*.html
+teams_*.csv
+teams_*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# PyCharm / VS Code
+.idea/
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
