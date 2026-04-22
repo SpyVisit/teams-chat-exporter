@@ -20,7 +20,7 @@ import socket
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-DEFAULT_OUTPUT = r"C:\Users\AEvstratov\Downloads"
+DEFAULT_OUTPUT = r"C:\Users\Public\Downloads"
 GRAPH_BASE     = "https://graph.microsoft.com/v1.0"
 TEAMS_COLOR    = "#6264a7"
 CDP_PORT       = 9222   # стандартный порт отладки
